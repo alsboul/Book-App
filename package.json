@@ -1,0 +1,26 @@
+{
+  "name": "book-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rashid-alsawalqa/Book-App.git"
+  },
+  "author": "Rashid & Mohammad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rashid-alsawalqa/Book-App/issues"
+  },
+  "homepage": "https://github.com/Rashid-alsawalqa/Book-App#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "superagent": "^5.1.3"
+  }
+}
